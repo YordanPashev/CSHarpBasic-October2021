@@ -10,6 +10,5 @@ namespace CelsiusToFahrenheit
             double fahr = cel * 1.8 + 32;
             Console.WriteLine($"{fahr:F2}");
         }
-        }
     }
 }
