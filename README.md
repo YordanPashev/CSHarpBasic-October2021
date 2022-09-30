@@ -4,5 +4,5 @@
 
 [**2.Conditional Statements**](https://github.com/YordanPashev/CSharpBasics-October2021/tree/main/02.Conditional%20Statements)
 
-[**3.Conditional Statements 20Advanced**](https://github.com/YordanPashev/CSharpBasics-October2021/tree/main/03.Conditional%20Statements%20Advanced)
+[**3.Conditional Statements Advanced**](https://github.com/YordanPashev/CSharpBasics-October2021/tree/main/03.Conditional%20Statements%20Advanced)
 
