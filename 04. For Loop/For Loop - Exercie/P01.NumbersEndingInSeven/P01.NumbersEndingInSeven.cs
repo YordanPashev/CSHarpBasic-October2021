@@ -1,14 +1,17 @@
 using System;
 
-namespace NumbersFromOneToOneHundred
+namespace NumbersEndingInSeven
 {
     class Program
     {
         static void Main(string[] args)
         {
-            for (int a = 1; a <= 100; a++)
+            for (int i = 0; i < 1000; i++)
             {
-                Console.WriteLine(a);
+                if (i % 10 == 7)
+                {
+                    Console.WriteLine(i);
+                }
             }
         }
     }
