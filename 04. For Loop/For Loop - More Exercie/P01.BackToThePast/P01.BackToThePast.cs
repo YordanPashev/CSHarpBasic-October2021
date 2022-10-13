@@ -16,11 +16,12 @@ namespace BackToThePast
                 {
                     heritage -= 12000;
                 }
-                
+
                 else
                 {
                     heritage -= 12000 + (50 * age);
                 }
+                
                 age++;
             }
 
