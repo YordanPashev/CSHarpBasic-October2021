@@ -7,3 +7,6 @@
 [**3. Conditional Statements Advanced**](https://github.com/YordanPashev/CSharpBasics-October2021/tree/main/03.Conditional%20Statements%20Advanced)
 
 [**4. For Loop**](https://github.com/YordanPashev/CSharpBasics-October2021/tree/main/04.%20For%20Loop)
+
+[**5. While Loop**](https://github.com/YordanPashev/CSharpBasics-October2021/tree/main/05.While%20Loop)
+
