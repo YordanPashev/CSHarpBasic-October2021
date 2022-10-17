@@ -1,19 +1,18 @@
 using System;
 
-namespace NumbersNToOne
+namespace P04.Sequence2k+1
 {
     class Program
     {
         static void Main(string[] args)
         {
             int n = int.Parse(Console.ReadLine());
-
-            if (n >= 1)
+            int k = 1;
+            
+            for (int i = 1; i <= n; i++)
             {
-                for (int i = n; i >= 1 ; i--)
-                {
-                    Console.WriteLine(i);
-                }
+                Console.WriteLine(i);
+                i = i * 2; 
             }
         }
     }
